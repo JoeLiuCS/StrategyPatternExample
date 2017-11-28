@@ -4,7 +4,7 @@ public class StrategyTablet implements Strategy {
 
 	@Override
 	public void show() {
-		System.out.println("This is Tablet Details.");
+		System.out.println("This is Tablet Promotion Details.");
 		
 	}
 
